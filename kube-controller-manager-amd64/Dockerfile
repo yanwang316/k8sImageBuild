@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-controller-manager-amd64:v1.11.0
+FROM k8s.gcr.io/kube-controller-manager:v1.12.3
 MAINTAINER yanwang316 <610747804@qq.com>
