@@ -1,2 +1,2 @@
-FROM gcr.io/fluentd-elasticsearch/elasticsearch:v6.6.1
+FROM gcr.io/google-containers/elasticsearch:v6.2.4
 MAINTAINER yanwang316 <610747804@qq.com>
